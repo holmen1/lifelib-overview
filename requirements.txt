@@ -1,0 +1,5 @@
+jupyter==1.0.0
+lifelib==0.7.0
+numpy==1.23.4
+
+
